@@ -7,25 +7,11 @@
     "text": "An analysis of 505 counties from 6 US states in a variety of different health indicators, gathered from County Health Rankings.\nRead the report here"
   },
   {
-    "objectID": "projects/index.html#the-languages-of-middle-earth",
-    "href": "projects/index.html#the-languages-of-middle-earth",
+    "objectID": "projects/index.html#data-analysis",
+    "href": "projects/index.html#data-analysis",
     "title": "Projects",
     "section": "",
-    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
-  },
-  {
-    "objectID": "projects/index.html#the-history-of-the-war-of-the-ring",
-    "href": "projects/index.html#the-history-of-the-war-of-the-ring",
-    "title": "Projects",
-    "section": "The History of the War of the Ring",
-    "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved.\n\nView the tutorial for this template (+ download link)"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About Moses",
-    "section": "",
-    "text": "Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nAbout Moses\nI am a current undergraduate student at Case Western Reserve University in Cleveland, Ohio. I am studying neuroscience and am pursuing a Masters in Public Health with a concentration in Population Health Research.\nYou can read my CV and contact me."
+    "text": "An analysis of 505 counties from 6 US states in a variety of different health indicators, gathered from County Health Rankings.\nRead the report here"
   },
   {
     "objectID": "cv/index.html",
@@ -35,24 +21,24 @@
     "text": "Download current CV"
   },
   {
-    "objectID": "photography/index.html",
-    "href": "photography/index.html",
-    "title": "Photography",
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
     "section": "",
-    "text": "As a wizard and scholar of Middle-earth, I have been studying the magic of the natural world for centuries. Through my self-portraits, I aim to capture the essence of my own being and reflect on my own journey through time. Each photograph is a reflection of my own experiences and emotions. Through my photography, I hope to offer a glimpse into my life as a scholar and adventurer, and inspire others to reflect on their own journeys through the world.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nView the tutorial for this template (+ download link)"
+    "text": "The term “statistically significant” is completely arbitrary in the modern age. It reduces the results from a research process to a simple fact about whether the data meets an arbitrary alpha value.\nLet’s say, for example, that we have a p-value (which is in itself not very useful) for one experiment is 0.02 different from that in another experiment, we might reasonably say that there isn’t a big difference between the significance of the results of the two. The difference 0.041 and 0.043, is inconsequential, and so is the difference between 0.085 and 0.087. Most any statistician or scientist would agree. What if the two p-values were 0.049 and 0.051? Why does it suddenly make a difference? Because we have set 0.05 as a common “goalpost”, this arbitrary number becomes the litmus test that results are held up to. Some may argue that 0.05 is not the right number to judge results against, but that misses the mark as well. Regardless of the number chosen as an alpha value, it is still arbitrary, whether it is 0.05, 0.01, or 0.1.\nWhat should be done, as recommended by many statisticians in the modern age, is a reporting of the effect size and a thoughtful description of what it means, and whether the size is large enough to be important. When it comes down to it, research in any form is nuanced and requires a more in-depth explanation of what results mean than simply that they are (or aren’t) “significant”. Rebecca Betensky makes this point clear with her argument in the article “The p-Value Requires Context, Not a Threshold”. She suggests that for each experiment, a threshold should be determined based on the experiment itself. For example, if a certain difference between two means is found to be a threshold for clinical significance, this should serve as the test of for the importance of results.\nThis helps to address two key issues that plague statistical analysis:\n\nOne is the reproducibility crisis, which is rampant in medical research. By setting a more realistic threshold, one can improve the chance that the results hold up.\nThe other issue is an issue less discussed, but I would argue far more important. Some results which are far from “clinically significant” are shown to be “statistically significant”, or vice versa. By marrying the two concepts, we know that any important findings elucidated in data analysis will be much more likely to be appreciated in practice.\n\nThis determination of threshold should be made on a case by case basis and requires the consideration and explanation in publication of the research team, which fosters an improvement in analytic quality and scientific communication overall. Thus, everyone wins.\nTo read more from the special issue of the American Statistician that inspired this post, visit this link. The special edition features a variety of articles on what to do and what NOT to do with regard to statistical significance in the modern day. The article by Betensky listed above is a key part of this issue.\nThis short blog post was written as part of a course assignment for PQHS 432: Statistical Methods II taken at Case Western Reserve University in Spring of 2026."
   },
   {
-    "objectID": "projects/index.html#mammography-screening-and-rural-area",
-    "href": "projects/index.html#mammography-screening-and-rural-area",
-    "title": "Projects",
+    "objectID": "blog/index.html#blog",
+    "href": "blog/index.html#blog",
+    "title": "Blog",
     "section": "",
-    "text": "An analysis of 505 counties from 6 US states in a variety of different health indicators, gathered from County Health Rankings.\nRead the report here"
+    "text": "The term “statistically significant” is completely arbitrary in the modern age. It reduces the results from a research process to a simple fact about whether the data meets an arbitrary alpha value.\nLet’s say, for example, that we have a p-value (which is in itself not very useful) for one experiment is 0.02 different from that in another experiment, we might reasonably say that there isn’t a big difference between the significance of the results of the two. The difference 0.041 and 0.043, is inconsequential, and so is the difference between 0.085 and 0.087. Most any statistician or scientist would agree. What if the two p-values were 0.049 and 0.051? Why does it suddenly make a difference? Because we have set 0.05 as a common “goalpost”, this arbitrary number becomes the litmus test that results are held up to. Some may argue that 0.05 is not the right number to judge results against, but that misses the mark as well. Regardless of the number chosen as an alpha value, it is still arbitrary, whether it is 0.05, 0.01, or 0.1.\nWhat should be done, as recommended by many statisticians in the modern age, is a reporting of the effect size and a thoughtful description of what it means, and whether the size is large enough to be important. When it comes down to it, research in any form is nuanced and requires a more in-depth explanation of what results mean than simply that they are (or aren’t) “significant”. Rebecca Betensky makes this point clear with her argument in the article “The p-Value Requires Context, Not a Threshold”. She suggests that for each experiment, a threshold should be determined based on the experiment itself. For example, if a certain difference between two means is found to be a threshold for clinical significance, this should serve as the test of for the importance of results.\nThis helps to address two key issues that plague statistical analysis:\n\nOne is the reproducibility crisis, which is rampant in medical research. By setting a more realistic threshold, one can improve the chance that the results hold up.\nThe other issue is an issue less discussed, but I would argue far more important. Some results which are far from “clinically significant” are shown to be “statistically significant”, or vice versa. By marrying the two concepts, we know that any important findings elucidated in data analysis will be much more likely to be appreciated in practice.\n\nThis determination of threshold should be made on a case by case basis and requires the consideration and explanation in publication of the research team, which fosters an improvement in analytic quality and scientific communication overall. Thus, everyone wins.\nTo read more from the special issue of the American Statistician that inspired this post, visit this link. The special edition features a variety of articles on what to do and what NOT to do with regard to statistical significance in the modern day. The article by Betensky listed above is a key part of this issue.\nThis short blog post was written as part of a course assignment for PQHS 432: Statistical Methods II taken at Case Western Reserve University in Spring of 2026."
   },
   {
-    "objectID": "projects/index.html#data-analysis",
-    "href": "projects/index.html#data-analysis",
-    "title": "Projects",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Moses",
     "section": "",
-    "text": "An analysis of 505 counties from 6 US states in a variety of different health indicators, gathered from County Health Rankings.\nRead the report here"
+    "text": "Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nAbout Moses\nI am a current undergraduate student at Case Western Reserve University in Cleveland, Ohio. I am studying neuroscience and am pursuing a Masters in Public Health with a concentration in Population Health Research.\nYou can read my CV and contact me."
   }
 ]
